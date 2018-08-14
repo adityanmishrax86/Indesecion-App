@@ -1,0 +1,22 @@
+//Widget header
+.widget-text{
+    padding: 1em 0;
+    text-align: center;
+    color: white;
+    border:1px solid lighten(#464b5e,20%);
+    margin:0;
+}
+.widget{
+    background:#464b5e;
+}
+.widget-header {
+    background: #3c4251;
+    color:white;
+    padding:1em;
+    display:flex;
+    justify-content: space-between;
+
+    h3{
+        margin:0;
+    }
+}

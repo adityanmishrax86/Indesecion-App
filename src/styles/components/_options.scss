@@ -1,0 +1,8 @@
+.option ol li{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid lighten($purple,10%);
+    padding:1em;
+    color:white;
+    word-break: break-all;
+}
